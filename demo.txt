@@ -3,3 +3,6 @@ git add.
 git commit -m "demo tutorial"
 git push
 git Pull
+git merge
+git revert
+git stash
